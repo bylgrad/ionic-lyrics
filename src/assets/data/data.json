@@ -1,0 +1,342 @@
+{
+  "schedule": [
+    {
+      "date": "2047-05-17",
+      "groups": [
+        {
+          "time": "8:00 am",
+          "sessions": [
+            {
+              "name": "Breakfast",
+              "timeStart": "8:00 am",
+              "timeEnd": "9:00 am",
+              "location": "Dining Hall",
+              "tracks": ["Food"],
+              "id": "1"
+            }
+          ]
+        },
+        {
+          "time": "9:15 am",
+          "sessions": [
+            {
+              "name": "Getting Started with Ionic",
+              "location": "Hall 2",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Ted Turtle"],
+              "timeStart": "9:30 am",
+              "timeEnd": "9:45 am",
+              "tracks": ["Ionic"],
+              "id": "2"
+            },
+            {
+              "name": "Ionic Tooling",
+              "location": "Executive Ballroom",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Rachel Rabbit"],
+              "timeStart": "9:45 am",
+              "timeEnd": "10:00 am",
+              "tracks": ["Tooling"],
+              "id": "3"
+            },
+            {
+              "name": "University of Ionic",
+              "location": "Hall 3",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Ellie Elephant"],
+              "timeStart": "9:15 am",
+              "timeEnd": "9:30 am",
+              "tracks": ["Ionic"],
+              "id": "4"
+            }
+          ]
+        },
+        {
+          "time": "10:00 am",
+          "sessions": [
+            {
+              "name": "Migrating to Ionic",
+              "location": "Hall 1",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Eva Eagle", "Lionel Lion"],
+              "timeStart": "10:00 am",
+              "timeEnd": "10:15 am",
+              "tracks": ["Ionic"],
+              "id": "5"
+            },
+            {
+              "name": "What's New in Angular",
+              "location": "Hall 3",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Rachel Rabbit"],
+              "timeStart": "10:15 am",
+              "timeEnd": "10:30 am",
+              "tracks": ["Angular"],
+              "id": "6"
+            },
+            {
+              "name": "The Evolution of Ionicons",
+              "location": "Hall 2",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Isabella Iguana", "Eva Eagle"],
+              "timeStart": "10:15 am",
+              "timeEnd": "10:30 am",
+              "tracks": ["Design"],
+              "id": "7"
+            },
+            {
+              "name": "Ionic Pro",
+              "location": "Grand Ballroom A",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Charlie Cheetah"],
+              "timeStart": "10:45 am",
+              "timeEnd": "11:00 am",
+              "tracks": ["Services"],
+              "id": "8"
+            }
+          ]
+        },
+        {
+          "time": "11:00 am",
+          "sessions": [
+            {
+              "name": "Ionic Workshop",
+              "location": "Hall 1",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Karl Kitten", "Lionel Lion"],
+              "timeStart": "11:00 am",
+              "timeEnd": "11:45 am",
+              "tracks": ["Workshop"],
+              "id": "9"
+            },
+            {
+              "name": "Community Interaction",
+              "location": "Hall 3",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Lionel Lion", "Gino Giraffe"],
+              "timeStart": "11:30 am",
+              "timeEnd": "11:50 am",
+              "tracks": ["Communication"],
+              "id": "10"
+            },
+            {
+              "name": "Navigation in Ionic",
+              "location": "Grand Ballroom A",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Rachel Rabbit", "Eva Eagle"],
+              "timeStart": "11:30 am",
+              "timeEnd": "12:00 pm",
+              "tracks": ["Navigation"],
+              "id": "11"
+            }
+          ]
+        },
+        {
+          "time": "12:00 pm",
+          "sessions": [
+            {
+              "name": "Lunch",
+              "location": "Dining Hall",
+              "description": "Come grab lunch with all the Ionic fanatics and talk all things Ionic",
+              "timeStart": "12:00 pm",
+              "timeEnd": "1:00 pm",
+              "tracks": ["Food"],
+              "id": "12"
+            }
+          ]
+        },
+        {
+          "time": "1:00 pm",
+          "sessions": [
+            {
+              "name": "Ionic in the Enterprise",
+              "location": "Hall 1",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Paul Puppy"],
+              "timeStart": "1:00 pm",
+              "timeEnd": "1:15 pm",
+              "tracks": ["Communication"],
+              "id": "13"
+            },
+            {
+              "name": "Ionic Worldwide",
+              "location": "Hall 1",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Gino Giraffe"],
+              "timeStart": "1:15 pm",
+              "timeEnd": "1:30 pm",
+              "tracks": ["Communication"],
+              "id": "14"
+            },
+            {
+              "name": "The Ionic Package",
+              "location": "Grand Ballroom B",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Molly Mouse", "Burt Bear"],
+              "timeStart": "1:30 pm",
+              "timeEnd": "2:00 pm",
+              "tracks": ["Services"],
+              "id": "15"
+            }
+          ]
+        },
+        {
+          "time": "2:00 pm",
+          "sessions": [
+            {
+              "name": "Push Notifications in Ionic",
+              "location": "Hall 2",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Burt Bear", "Charlie Cheetah"],
+              "timeStart": "2:00 pm",
+              "timeEnd": "2:30 pm",
+              "tracks": ["Services"],
+              "id": "16"
+            },
+            {
+              "name": "Ionic Documentation",
+              "location": "Grand Ballroom B",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Donald Duck"],
+              "timeStart": "2:30 pm",
+              "timeEnd": "2:45 pm",
+              "tracks": ["Documentation"],
+              "id": "17"
+            },
+            {
+              "name": "UX in Ionic",
+              "location": "Hall 3",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Isabella Iguana", "Ellie Elephant"],
+              "timeStart": "2:45 pm",
+              "timeEnd": "3:00 pm",
+              "tracks": ["Design"],
+              "id": "18"
+            }
+          ]
+        },
+        {
+          "time": "3:00",
+          "sessions": [
+            {
+              "name": "Angular Directives in Ionic",
+              "location": "Hall 1",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Ted Turtle"],
+              "timeStart": "3:00 pm",
+              "timeEnd": "3:30 pm",
+              "tracks": ["Angular"],
+              "id": "19"
+            },
+            {
+              "name": "Mobile States",
+              "location": "Hall 2",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Rachel Rabbit"],
+              "timeStart": "3:30 pm",
+              "timeEnd": "3:45 pm",
+              "tracks": ["Navigation"],
+              "id": "20"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "lyrics": [
+    {
+      "id": "1",           
+      "profilePic": "assets/img/speakers/logo.png",
+      "title": "Destined For Greatness",
+      "content": "A fresh wind is blowing\r\nIt's the wind of God's Spirit\r\nBe still and know His voice\r\nListen and you'll hear it\r\n\r\nA new call is stirring\r\nIncreasing in power\r\nFeel the Spirit releasing\r\nHis strength by the hour\r\n\r\nWe will rise to the call\r\nWe will stand and obey\r\nWe are warriors who's weapon\r\nIs God's highest praise\r\n\r\nThe Bridegroom is coming\r\nSo rise up, oh, Bride\r\nLet His mighty kingdom triumph\r\nLet us give our very lives\r\n\r\nDestined for greatness\r\nWith the passionate faith\r\nMoving in His power\r\nClothed in garments of praise\r\nStrong in the Spirit\r\nOne holy nation\r\nTrue to the calling of\r\nOur great salvation\r\nWe are destined, destined for greatness\r\n\r\nTo love the unlovable\r\nTeach the unteachable\r\nTouch the untouchable\r\nReach the unreachable\r\n\r\nSee the unseeable\r\nShake the unshakeable\r\nHeal the unhealable\r\nBreak the unbreakable\r\n\r\nLove the unlovable\r\nTeach the unteachable\r\nTouch the untouchable\r\nReach the unreachable\r\n\r\nSee the unseeable\r\nShake the unshakeable\r\nHeal the unhealable\r\nBreak the unbreakable\r\n\r\nWe will rise to the call\r\nWe will stand and obey\r\nWe are warriors who's weapon\r\nIs God's highest praise\r\n\r\nThe Bridegroom is coming\r\nRise up, oh, Bride\r\nLet His mighty kingdom triumph\r\nLet us give our very lives\r\n\r\nDestined for greatness\r\nWith the passionate faith\r\nMoving in His power\r\nClothed in garments of praise\r\n\r\nStrong in the Spirit\r\nOne holy nation\r\nTrue to the calling of\r\nOur great salvation\r\n\r\nWe are destined, destined for greatness\r\n\r\nWe are destined (we are destined)\r\nWe are destined (we are destined)\r\nWe are destined (we are destined)\r\nDestined for greatness!"
+    },
+    {
+      "id": "2",
+      "profilePic": "assets/img/speakers/logo.png",
+      "title": "Undivided Heart",
+      "content": "If I'm to be whom You desire\r\nAll throughout my life\r\nA vessel unto honour, Lord to Thee\r\nAnd before Your throne to hear You say\r\nThat I have done my part\r\nLord, I need an undivided heart.\r\n\r\nThat I might know You\r\nThat I might serve You\r\nThat I might worship You as King\r\nTo see the morning star,\r\nTo know how great You are\r\nLord, I need an undivided heart.\r\n\r\nIf I'm to live in truth & love\r\nTo glorify Your name\r\nIf for a living sacrifice to be\r\nAnd to share the joy, the grace and peace\r\nYour Spirit does impart\r\nLord, I need an undivided heart.\r\n\r\nThat I might know You\r\nThat I might serve You\r\nThat I might worship You as King\r\nTo see the morning star,\r\nTo know how great You are\r\nLord, I need an undivided heart.\r\n\r\nTo see the morning star,\r\nTo know how great You are\r\nLord, I need an undivided heart."
+    },
+    {
+      "id": "3",
+      "profilePic": "assets/img/speakers/logo.png",
+      "title": "I Stand Redeemed",
+      "content": "When I think of all my faults and my failures\r\nWhen I consider all the times i let God down\r\nI am humbled at the grace He has extended\r\nI'm amazed at the mercy I have found\r\nI could never earn His love on my own\r\nYet every time I come before His throne\r\n\r\nChours\r\nI stand redeemed by the blood of the lamb\r\nI stand redeemed before the great I Am\r\nWhen He looks at me he sees the nailed scarred Hands\r\nThat bought my liberty I stand redeemed\r\n\r\nEven at my best I am unworthy\r\nI have nothing precious I can give\r\nA broken heart is all I have to offer\r\nAnd yet it is a priceless gift to Him\r\nThe bitter mark of sin will never fade away\r\nBut I can come before Him unashamed\r\n\r\nChours\r\nI stand redeemed by the blood of the lamb\r\nI stand redeemed before the great I Am\r\nWhen He looks at me he sees the nailed scarred Hands\r\nThat bought my liberty I stand redeemed"
+
+    },
+    {
+      "id": "4",
+      "profilePic": "assets/img/speakers/logo.png",
+      "title": "This Witness I Will Bear",
+      "content": "Verse: 1\r\nHave you heard the story told\r\nof the Man whose heart was sold\r\nTo save my dying soul?\r\nOh, what love untold.\r\n\r\nTo the end He\u2019s always sought me.\r\nTo the end He\u2019s always loved me.\r\nTo the end I long to follow\r\nfor He bore my cross of sorrow.\r\n\r\nI will stay here in the hollow of His care\r\nand I will go anywhere, to the end.\r\nThis witness I will bear, to the end.\r\n\r\nVerse: 2\r\nIn the grove I heard Him say,\r\n\u201COh my Father please just stay.\u201D\r\nThrough broken hearted pain\r\nHe did pave the way.\r\n\r\nTo the end His heart is faithful.\r\nTo the end His hand is able.\r\nTo the end I can now follow\r\nfor He bore my cross of sorrow.\r\n\r\nI will stay here in the hollow of His care\r\nand I will go anywhere, to the end.\r\nThis witness I will bear, to the end.\r\n\r\nVerse: 3\r\nAs they took Him off to die,\r\nthere His friendship I denied.\r\nForgiveness in His eyes,\r\nHe did not despise.\r\n\r\nTo the end His love constrains me.\r\nTo the end He has restored me.\r\nTo the end I will still follow\r\nfor He bore my cross of sorrow.\r\n\r\nI will stay here in the hollow of His care\r\nand I will go anywhere, to the end.\r\nThis witness I will bear, to the end."
+    },
+    {
+      "id": "5",
+      "profilePic": "assets/img/speakers/logo.png",
+      "title": "Tracing God's Footprints",
+      "content": "Many feel that it would be a great privilege\r\nTo visit the scenes of Christ's life on earth,\r\nTo walk where He trod, to look upon the lake beside\r\nWhich He loved to teach, and the hills and valleys\r\nOn which His eyes so often rested.\r\n\r\nWe are the followers of Christ, We are to labor as He did.\r\nWe are to feed the hungry, clothe the naked,\r\nWe are to comfort the suffering and encourage the afflicted.\r\nWe are to minister to the despairing, and inspire hope in the hopeless.\r\n\r\nWe need not go to Nazareth, or to Bethany,\r\nIn order to walk in His steps.\r\nWe shall find His footprints beside the sick-bed,\r\nIn the hovels of poverty, \r\nDoing as Jesus did when on earth,\r\nWe shall walk in His steps.\r\n\r\nWe are the followers of Christ, We are to labor as He did.\r\nWe are to feed the hungry, clothe the naked,\r\nWe are to comfort the suffering and encourage the afflicted.\r\nWe are to minister to the despairing, and inspire hope in the hopeless.\r\n\r\nWe are the followers of Christ, We are to labor as He did.\r\nWe are to feed the hungry, clothe the naked,\r\nWe are to comfort the suffering and encourage the afflicted.\r\nWe are to minister to the despairing, and inspire hope in the hopeless.\r\n\r\nWe are tracing God's footprints."
+    }
+  ],
+
+  "map": [
+    {
+      "name": "Monona Terrace Convention Center",
+      "lat": 43.071584,
+      "lng": -89.38012,
+      "center": true
+    },
+    {
+      "name": "Ionic HQ",
+      "lat": 43.074395,
+      "lng": -89.381056
+    },
+    {
+      "name": "Afterparty - Brocach Irish Pub",
+      "lat": 43.07336,
+      "lng": -89.38335
+    }
+  ],
+
+  "tracks": [
+    {
+      "name": "Angular",
+      "icon": "logo-angular"
+    },
+    {
+      "name": "Documentation",
+      "icon": "document"
+    },
+    {
+      "name": "Food",
+      "icon": "restaurant"
+    },
+    {
+      "name": "Ionic",
+      "icon": "logo-ionic"
+    },
+    {
+      "name": "Tooling",
+      "icon": "hammer"
+    },
+    {
+      "name": "Design",
+      "icon": "color-palette"
+    },
+    {
+      "name": "Services",
+      "icon": "cog"
+    },
+    {
+      "name": "Workshop",
+      "icon": "construct"
+    },
+    {
+      "name": "Communication",
+      "icon": "call"
+    },
+    {
+      "name": "Navigation",
+      "icon": "compass"
+    }
+  ]
+}

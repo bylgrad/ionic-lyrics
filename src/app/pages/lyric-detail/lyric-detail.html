@@ -1,0 +1,32 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button defaultHref="/app/tabs/lyrics"></ion-back-button>
+    </ion-buttons>
+    <!-- <ion-title>{{lyric?.title}}</ion-title> -->
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-padding lyric-detail">
+  <div *ngIf="lyric" class="ion-text-center">
+    <!-- <img [src]="lyric.profilePic" [alt]="lyric.name"> -->
+    <ion-title>{{ lyric?.title }}</ion-title>
+    <br>
+
+    <ion-button fill="clear" size="small" color="twitter">
+      <ion-icon name="logo-twitter" slot="icon-only"></ion-icon>
+    </ion-button>
+    <ion-button fill="clear" size="small" color="facebook">
+      <ion-icon name="logo-facebook" slot="icon-only"></ion-icon>
+    </ion-button>
+    <ion-button fill="clear" size="small" color="instagram">
+      <ion-icon name="logo-instagram" slot="icon-only"></ion-icon>
+    </ion-button>
+  </div>
+
+  <!-- <div text-wrap><pre></pre></div> -->
+  <ion-item class="item-text-wrap">
+    <pre>{{ lyric?.content }}</pre>
+  </ion-item>
+  
+</ion-content>
