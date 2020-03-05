@@ -1,9 +1,9 @@
 <ion-header>
-  <ion-toolbar>
+  <ion-toolbar color="dark">
     <ion-buttons slot="start">
       <ion-back-button defaultHref="/app/tabs/lyrics"></ion-back-button>
     </ion-buttons>
-    <!-- <ion-title>{{lyric?.title}}</ion-title> -->
+    <ion-title>{{lyric?.title}}</ion-title>
   </ion-toolbar>
 </ion-header>
 
@@ -11,6 +11,7 @@
   <div *ngIf="lyric" class="ion-text-center">
     <!-- <img [src]="lyric.profilePic" [alt]="lyric.name"> -->
     <ion-title>{{ lyric?.title }}</ion-title>
+    <h5><i>{{ lyric?.artist }}</i></h5>
     <br>
 
     <ion-button fill="clear" size="small" color="twitter">

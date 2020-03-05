@@ -30,15 +30,15 @@ export class ScheduleFilterPage implements AfterViewInit {
     // passed in array of track names that should be excluded (unchecked)
     const excludedTrackNames = this.navParams.get('excludedTracks');
 
-    this.confData.getTracks().subscribe((tracks: any[]) => {
-      tracks.forEach(track => {
-        this.tracks.push({
-          name: track.name,
-          icon: track.icon,
-          isChecked: (excludedTrackNames.indexOf(track.name) === -1)
-        });
-      });
-    });
+    // this.confData.getTracks().subscribe((tracks: any[]) => {
+    //   tracks.forEach(track => {
+    //     this.tracks.push({
+    //       name: track.name,
+    //       icon: track.icon,
+    //       isChecked: (excludedTrackNames.indexOf(track.name) === -1)
+    //     });
+    //   });
+    // });
   }
 
   selectAll(check: boolean) {

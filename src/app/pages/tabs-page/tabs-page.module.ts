@@ -11,6 +11,8 @@ import { ScheduleModule } from '../schedule/schedule.module';
 import { SessionDetailModule } from '../session-detail/session-detail.module';
 import { LyricDetailModule } from '../lyric-detail/lyric-detail.module';
 import { LyricListModule } from '../lyric-list/lyric-list.module';
+import { Lyricv2PageModule } from '../lyricv2/lyricv2.module';
+import { Lyricv2DetailPageModule } from '../lyricv2-detail/lyricv2-detail.module';
 
 @NgModule({
   imports: [
@@ -18,10 +20,12 @@ import { LyricListModule } from '../lyric-list/lyric-list.module';
     CommonModule,
     IonicModule,
     MapModule,
-    ScheduleModule,
-    SessionDetailModule,
     LyricDetailModule,
     LyricListModule,
+    // Lyricv2PageModule,
+    // Lyricv2DetailPageModule,
+    ScheduleModule,
+    SessionDetailModule,
     TabsPageRoutingModule
   ],
   declarations: [

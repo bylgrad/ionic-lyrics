@@ -16,7 +16,8 @@ export class ConferenceData {
   load(): any {
     if (this.data) {
       return of(this.data);
-    } else {
+    }
+    else {
       return this.http
         .get('assets/data/data.json')
         .pipe(map(this.processData, this));

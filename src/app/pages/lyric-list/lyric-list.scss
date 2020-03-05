@@ -1,23 +1,27 @@
+h4 {
+    font-weight: bold;
+}
+
 .scroll {
   background: #ededed;
 }
 
-.lyric-card {
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-}
+// .lyric-card {
+//   height: 100%;
+//   display: flex;
+//   flex-direction: column;
+// }
 
-.lyric-card ion-card-header {
-  padding: 0;
-}
+// .lyric-card ion-card-header {
+//   padding: 0;
+// }
 
-.lyric-card ion-card-header .item {
-  padding: 4px 16px;
-}
+// .lyric-card ion-card-header .item {
+//   padding: 4px 16px;
+// }
 
-.lyric-card ion-card-content {
-  flex: 1 1 auto;
+// .lyric-card ion-card-content {
+//   flex: 1 1 auto;
 
-  padding: 0;
-}
+//   padding: 0;
+// }
